@@ -36,10 +36,12 @@ https://openairlib.net/
 Soundfield - Ambisonic Recordings
 https://library.soundfield.com/
 
-# Commercial
+# Commercial Instruments
 
 Soniccouture
 http://www.soniccouture.com/en/
+
+# Commercial SFX
 
 Zapsplat
 https://www.zapsplat.com/blog/
