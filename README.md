@@ -26,6 +26,20 @@ http://incompetech.com
 
 http://archive.org/details/NasaApollo11OnboardRecordings
 
+# Audio Programming
+
+The history of electronic musical instruments from 1800 to 2019:
+https://120years.net/wordpress/the-syn-ket-or-synthesiser-ketoff-paolo-ketoff-john-eaton-italy-1963/
+
+Getting Started With Reverb Design, Part 2: The Best Papers:
+https://valhalladsp.com/2021/09/22/getting-started-with-reverb-design-part-2-the-foundations/
+
+What Digital Reverb Actually Does:
+https://www.izotope.com/en/learn/what-digital-reverb-actually-does.html
+
+1969: What Is ELECTRONIC MUSIC? | Workshop | Radiophonic Workshop | BBC Archive:
+https://www.youtube.com/watch?v=yMvP-cxjPpo
+
 # Impulse Responses
 
 http://www.echothief.com/
