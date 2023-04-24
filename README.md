@@ -34,6 +34,11 @@ http://incompetech.com
 
 http://archive.org/details/NasaApollo11OnboardRecordings
 
+# M4L
+
+Building Max Devices by Ableton
+https://www.youtube.com/watch?v=rX2ltVgvufA
+
 # Programming
 
 Getting Started With Reverb Design, Part 2: The Best Papers:
