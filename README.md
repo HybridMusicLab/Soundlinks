@@ -6,6 +6,22 @@ https://120years.net/wordpress/the-syn-ket-or-synthesiser-ketoff-paolo-ketoff-jo
 1969: What Is ELECTRONIC MUSIC? | Workshop | Radiophonic Workshop | BBC Archive
 https://www.youtube.com/watch?v=yMvP-cxjPpo
 
+# Free VST Plugins
+
+https://www.airwindows.com/
+
+https://analogobsession.com/
+
+https://kilohearts.com/products/kilohearts_essentials
+
+https://surge-synthesizer.github.io/
+
+https://vital.audio/
+
+# Free Standalone
+
+https://vcvrack.com/
+
 # Free Audio Samples
 
 http://bbcsfx.acropolis.org.uk/
